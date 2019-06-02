@@ -29,15 +29,15 @@ I will test with several articles
 pip install newspaper3k
 ```
 
-1st article: http://v.media.daum.net/v/20171215130602344 (bitcoin related)
+1st article: http://v.media.daum.net/v/20171215130602344 (related bitcoin)
 
-2nd article: http://v.media.daum.net/v/20171215130312300 (bitcoin related)
+2nd article: http://v.media.daum.net/v/20171215130312300 (related bitcoin)
 
-3rd article: http://v.media.daum.net/v/20171215111203921 (bitcoin related)
+3rd article: http://v.media.daum.net/v/20171215111203921 (related bitcoin)
 
-4th article: http://v.media.daum.net/v/20171216002700566 (weather related)
+4th article: http://v.media.daum.net/v/20171216002700566 (related weather)
 
-5th article: http://v.media.daum.net/v/20171215214505350 (weather related)
+5th article: http://v.media.daum.net/v/20171215214505350 (related weather)
 
 ```python
 from newspaper import Article
